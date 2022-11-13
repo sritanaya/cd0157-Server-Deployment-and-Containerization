@@ -8,9 +8,9 @@ import pytest
 import main
 
 SECRET = 'myjwtsecret'
-TOKEN = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2Njg5OTg4MzcsIm5iZiI6MTY2Nzc4OTIzNywiZW1haWwiOiJhYmNAeHl6LmNvbSJ9.Y2T-ru7IVp4PGTH7FU1YC2zbLHGdhCnCW0t58RHWBmY'
+TOKEN = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2Njk1Nzk3NTksIm5iZiI6MTY2ODM3MDE1OSwiZW1haWwiOiJhYmNAeHl6LmNvbSJ9.Oe_aZdmL9fKcLHuz02FTCmvNfrwmC6RTyxh3szDOC8Q'
 EMAIL = 'abc@xyz.com'
-PASSWORD = 'WindowsPwd'
+PASSWORD = 'mypwd'
 
 @pytest.fixture
 def client():
