@@ -8,7 +8,7 @@ import pytest
 import main
 
 SECRET = 'myjwtsecret'
-TOKEN = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2Njk2MTE2OTQsIm5iZiI6MTY2ODQwMjA5NCwiZW1haWwiOiJhYmNAeHl6LmNvbSJ9.Kw-EsTSks5HgFeLbTSOKYiIO9MQij5_SmgUwPUSqbj8'
+TOKEN = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2Njk2MTIxNjIsIm5iZiI6MTY2ODQwMjU2MiwiZW1haWwiOiJhYmNAeHl6LmNvbSJ9.pI3X-m8QymSAakD7sdNHgDlR3k8xoM1LI76TV2g7tcA'
 EMAIL = 'abc@xyz.com'
 PASSWORD = 'mypwd'
 
